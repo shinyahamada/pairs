@@ -1,0 +1,54 @@
+body{
+  background-image:url("mat.png");
+
+}
+
+.cards{
+  width:100px;
+  height:150px;
+}
+
+
+.cards{
+  padding:10px 20px;
+}
+ul{
+  float:left;
+}
+
+li{
+  list-style: none;
+  float:left;
+}
+
+.start{
+  color:white;
+  margin:20px;
+  border:10px solid white;
+  width:80px;
+  border-bottom:10px solid #cacaca;
+  border-right:10px solid #cacaca;
+  float:left;
+}
+
+.manage {
+  margin-top:30px;
+  margin-left:20px;
+  color:white;
+  height: 30px;
+  width:150px;
+  padding-left:30px;
+
+}
+
+.omote-cards{
+  text-align:center;
+  float:left;
+  width:200px;
+}
+
+.scores{
+  float:left;
+  width:300px;
+  text-align:left;
+}
